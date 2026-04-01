@@ -1,0 +1,5 @@
+streamlit
+pandas
+scikit-learn
+joblib
+pillow==9.5.0
